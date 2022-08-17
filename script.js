@@ -1,5 +1,1 @@
-if (true) {
-    document.getElementById('nome-input').style.margin = '30px';
-} else {
-    
-}
+console.log("eu fiz uma correção")
